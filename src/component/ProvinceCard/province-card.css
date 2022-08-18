@@ -77,7 +77,7 @@
   
   .card-wrapper .box-overlay  .text-overlay:hover {
     opacity: 0;
-    /* transform: scale(1.6); */
+    transform: scale(1.6);
   }
 
   .card-wrapper .box-overlay  .text-overlay .text{
@@ -92,7 +92,7 @@
 }
 
   .card-wrapper:hover .box-overlay, .card-wrapper:active .box-overlay {
-    /* transform: scale(1.5); */
+    transform: scale(1.5);
     transition: all 3s;
   }
 
