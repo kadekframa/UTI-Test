@@ -1,0 +1,17 @@
+.destination {
+    margin: 13% 0 4%;
+}
+
+.destination .highlight-wrapper h2  {
+    text-align: center;
+}
+
+@media screen and (max-width: 800px) {
+    .destination {
+        margin: -30% 0 4%;
+    }
+
+    .responsive-wrapper {
+        flex-direction: column;
+    }
+}
