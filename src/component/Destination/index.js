@@ -10,7 +10,7 @@ const Destination = () => {
           </div>
           <p className='text-center desc-highlight mb-5'>Free yourself, explore and enjoy Indonesian nature tourism</p>
 
-          <div className='row section-province-wrapper responsive-wrapper row-cols-4 d-flex'>
+          <div className='row section-province-wrapper responsive-wrapper row-cols-5 d-flex'>
             <div className='col px-0 mb-0'>
               <ProvinceCard
                 province='Sumatra'
